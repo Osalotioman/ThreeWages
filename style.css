@@ -1,0 +1,14 @@
+#str{
+        table-layout: fixed;
+        width: 350px;
+        height: 350px;
+        position: fixed;
+        left: 5px;
+      }
+      #str, tr, td{
+        border: 5px solid black;
+        text-align: center;
+      }
+      #str td{
+        height: 116.67px;
+      }
