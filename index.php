@@ -30,3 +30,6 @@
   </body>
 </html>
 <script src="script.js"></script>
+<?php
+  echo "<h1>Hello World</h1>";
+?>
